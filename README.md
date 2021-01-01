@@ -1,4 +1,4 @@
-#Ecommerce app 
+# Ecommerce App 
 Framework: Django
 The app is a smaller version of an online shopping app
 ![](ecommerce.gif)
